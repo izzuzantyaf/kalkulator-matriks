@@ -282,21 +282,22 @@ int main()
         main();
         break;
     case 3:
-        printf("\n\nYou choose multiplication operation");
-        printf("\nNote !!! : The amount of column of matrix 1 must equal to amount of row of matrix 2");
-        inputOrdo();
-        if (columnM1 == rowM2)
-        {
-            inputMatriks1();
-            outputM1();
-            inputMatriks2();
-            outputM2();
-            //perkalian();
-        }
-        else
-        {
-            printf("\nMatrix can't be operated");
-        }
+        printf("This feature is still under development");
+    // printf("\n\nYou choose multiplication operation");
+    // printf("\nNote !!! : The amount of column of matrix 1 must equal to amount of row of matrix 2");
+    // inputOrdo();
+    // if (columnM1 == rowM2)
+    // {
+    //     inputMatriks1();
+    //     outputM1();
+    //     inputMatriks2();
+    //     outputM2();
+    //     //perkalian();
+    // }
+    // else
+    // {
+    //     printf("\nMatrix can't be operated");
+    // }
     case 4:
     case 5:
     case 6:
