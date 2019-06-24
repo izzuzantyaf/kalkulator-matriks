@@ -1,2 +1,2 @@
-# kalkulator-matrix
+# kalkulator-matriks
 a simple matrix calculator
